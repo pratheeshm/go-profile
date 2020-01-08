@@ -1,0 +1,1 @@
+create table student(name varchar(20) not null, age int not null, id_student serial);
